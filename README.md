@@ -2,5 +2,5 @@
 
 # I AM CodeBLOODED
 
-(gitartwork.svg)]
+gitartwork.svg
 
